@@ -1,11 +1,10 @@
 .catalog {
-  font-family: Roboto, serif;
+  font-family: Roboto, sans-serif;
   color: $main-color;
   background-color: white;
   display: grid;
   padding: 50px 40px;
-  row-gap: 46px;
-  column-gap: 48px;
+  gap: 46px 48px;
   justify-content: center;
 }
 

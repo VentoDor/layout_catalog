@@ -6,11 +6,11 @@
   height: $header-height;
   padding: 0 50px;
   z-index: 2;
-  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
   position: relative;
 
   &__logo-link {
-    width: 4$header-foto-size;
+    width: $header-foto-size;
     height: $header-foto-size;
   }
 }
